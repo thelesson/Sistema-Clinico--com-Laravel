@@ -1,0 +1,98 @@
+body{
+-webkit-font-smoothing: antialiased;
+   /* font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font-weight: 400;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: rgb(51, 51, 51);
+    /*background-color: rgb(255, 255, 255) !important;
+        margin: 0px;*/
+
+}
+.warapper{
+
+	    min-height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+header{
+	display:block;
+}
+.meu-header{
+	    position: relative;
+    max-height: 100px;
+    z-index: 1030;
+}
+.meu-header .logo{
+	    display: block;
+    float: left;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    width: 230px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    transition: width 0.3s ease-in-out;
+    padding: 0px 15px;
+    overflow: hidden;
+}
+.logo{
+	background-color: rgb(151, 175, 112);
+    color: rgb(255, 255, 255);
+    border-bottom: 0px solid transparent;
+    position:fixed;
+}
+.logo:hover{text-decoration: none;
+color:rgb(220, 215, 215);}
+.meu-header .navbar{
+	    background-color: rgb(96, 92, 168);
+/*caso queira incluir um tema para cor, acrescentar uma classe aqui*/
+}
+.meu-header .navbar{
+    margin-bottom: 0px;
+    margin-left: 230px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    min-height: 50px;
+    transition: margin-left 0.3s ease-in-out;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-radius: 0px;
+
+}
+
+nav .inutil{
+    max-width: 100%;
+
+}
+.fa{
+	    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+.container{
+
+    max-width: 1065px;
+    padding-top: 75px;
+    
+
+
+}
+.navbar-right{
+	    margin-right: 25px;
+}
+
+
+/*daqui pra baixo---estilo do menu verticall*/
+
