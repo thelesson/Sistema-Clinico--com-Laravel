@@ -6,7 +6,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-##Introdução
+## Introdução
 
 Esboço de um simples sistema de consultas e exames clinicos.
 
@@ -30,57 +30,57 @@ Para envio de email, substitua os seguintes itens no arquivo .env :
 
 ## ScreenShots
 
-![Inicio](screenshots/01.jpg)
+![Inicio](screenshots/01.PNG)
 
-![Inicio](screenshots/02.jpg)
+![Inicio](screenshots/02.PNG)
 
-![Inicio](screenshots/03.jpg)
+![Inicio](screenshots/03.PNG)
 
-![Inicio](screenshots/04.jpg)
+![Inicio](screenshots/04.PNG)
 
-![Inicio](screenshots/05.jpg)
+![Inicio](screenshots/05.png)
 
-![Inicio](screenshots/06.jpg)
+![Inicio](screenshots/06.png)
 
-![Inicio](screenshots/07.jpg)
+![Inicio](screenshots/07.PNG)
 
-![Inicio](screenshots/08.jpg)
+![Inicio](screenshots/08.PNG)
 
-![Inicio](screenshots/09.jpg)
+![Inicio](screenshots/09.PNG)
 
-![Inicio](screenshots/10.jpg)
+![Inicio](screenshots/10.PNG)
 
-![Inicio](screenshots/11.jpg)
+![Inicio](screenshots/11.PNG)
 
-![Inicio](screenshots/12.jpg)
+![Inicio](screenshots/12.PNG)
 
-![Inicio](screenshots/13.jpg)
+![Inicio](screenshots/13.PNG)
 
-![Inicio](screenshots/14.jpg)
+![Inicio](screenshots/14.PNG)
 
-![Inicio](screenshots/15.jpg)
+![Inicio](screenshots/15.PNG)
 
-![Inicio](screenshots/16.jpg)
+![Inicio](screenshots/16.PNG)
 
-![Inicio](screenshots/17.jpg)
+![Inicio](screenshots/17.PNG)
 
-![Inicio](screenshots/18.jpg)
+![Inicio](screenshots/18.PNG)
 
-![Inicio](screenshots/19.jpg)
+![Inicio](screenshots/19.png)
 
-![Inicio](screenshots/20.jpg)
+![Inicio](screenshots/20.png)
 
-![Inicio](screenshots/21.jpg)
+![Inicio](screenshots/21.png)
 
-![Inicio](screenshots/22.jpg)
+![Inicio](screenshots/22.png)
 
-![Inicio](screenshots/23.jpg)
+![Inicio](screenshots/23.png)
 
-![Inicio](screenshots/24.jpg)
+![Inicio](screenshots/24.PNG)
 
-![Inicio](screenshots/25.jpg)
+![Inicio](screenshots/25.png)
 
-![Inicio](screenshots/26.jpg)
+![Inicio](screenshots/26.png)
 
 
 
