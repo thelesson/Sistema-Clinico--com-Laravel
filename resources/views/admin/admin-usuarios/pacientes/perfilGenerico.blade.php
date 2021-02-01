@@ -84,10 +84,10 @@
              <div class="form-group form-usuario col-md-12">
              <div class="col-md-2"></div>
                <div class="col-md-5" style="padding-left:42px;">
-             <label>Contato: <small>021 3715-4754 (Igor Rangel)</small></label>
+             <label>Contato: <small>021 0000000</small></label>
              </div>
               <div class="col-md-5">
-             <label>Comercial: <small>021 2220-2319 </small></label>
+             <label>Comercial: <small>021 000000</small></label>
              </div>
              </div>
               <div class="form-group form-usuario col-md-12">
