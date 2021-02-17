@@ -6,9 +6,10 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-## Feito em 2015
+## Feito em 2015 como um teste no primeiro contato com o Laravel. 
 
-Esboço de um simples sistema de consultas e exames clinicos, feito em 2015.
+Esboço de um simples sistema de consultas e exames clinicos, feito em 2015. Projeto incompleto e mal implementado.
+Não utilize em novos projetos. É um repositório apenas para recordação. 
 
 
 ## Ações disponiveis
