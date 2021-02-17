@@ -8,7 +8,7 @@
 
 ## Feito em 2015 como um teste no primeiro contato com o Laravel. 
 
-Esboço de um simples sistema de consultas e exames clinicos, feito em 2015. Projeto incompleto e mal implementado.
+Esboço de um simples sistema de consultas e exames clinicos, feito em 2015. Projeto funcional mas incompleto e mal implementado.
 Não utilize em novos projetos. É um repositório apenas para recordação. 
 
 
